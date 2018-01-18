@@ -8,7 +8,7 @@ This README is a no-nonsense explanation of the core of a practice based PhD by 
  * Lab-on-a-chip developments
  * BioEngineering, Biological computation and Bioinformatics
  * Biological behaviour as models for technological engineering
- * DIYbio: Makers meet microbes 
+ * [DIYbio](https://en.wikipedia.org/wiki/Do-it-yourself_biology): Makers and kits meet microbes: lab-on-a-chip-for-makers: where [DIY microfluidics](https://www.cytofluidix.com/low-tech-microfluidics/) meets [AIY](https://aiyprojects.withgoogle.com/)
 
 ### Perspective of the art practice
 
@@ -38,13 +38,15 @@ This README is a no-nonsense explanation of the core of a practice based PhD by 
  * I will interact with a research group of biomedical researchers working on aspects of communication & chemotaxis/movement in biological systems using the  microbial and insect species already being studied at Lancaster. This informal group *ClubBioMed* co-founded with Dr Rod Dillon embeds maker culture and participative art practices with technology within the Biomedical & Life Sciences at Lancaster University.
 
  * Connect these groups with the wider arts, maker and tech community of the NorthWest
-  * DoESLiverpool
-  * Domestic Science
-  * Network of libraries in the North West: Merseyside, Barrow and Morecambe 
+  * [DoESLiverpool](http://doesliverpool.com/)
+  * [Domestic Science](http://domesticscience.org.uk/)
+  * Network of libraries and community spaces in the North West: Merseyside, Barrow and Morecambe 
   * FACTlab
   * OSHUG
   * UK Maker Belt Association
- 
+  * Guild of Makers
+  * Liverpool Make Fest and other maker event networks e.g. Maker Assembly
+  * Fesival of Maintenance 2018
  * Stimulate crosstalk with novel research groups and informal clubs to widen the participation in technical and scientific literacy within the North West of the UK. 
  * Use this crosstalk to foster critical approaches to art and science collaborative practice. 
  
