@@ -25,16 +25,19 @@ This README is a no-nonsense explanation of the core of a practice based PhD by 
  * What are the opportunities for agency, literacy and resilience in this space? 
  * What are the opportunities to entangle scientific literacy with more diverse knowledge practices, practitioners and widen participation?
  * What Critical Kits can be made to embody and materialise these opportunities?
- * How do kits further embodied interaction?
- * How can kits contribute to the relation between STS research and artistic practice?
- * What is the nature of challenge in terms of literacy and agency in kit responses to bio-engineering?
+  * How do kits further embodied interaction?
+  * How can kits contribute to the relation between STS research and artistic practice?
+  * What is the nature of challenge in terms of literacy and agency in kit responses to bio-engineering?
  * What approaches informed by these questions can be made in the DIYBio space?
  * What are the scaling opportunities for Critical Kit and DIYbio practices along the lines of [RCA's Future Makespaces in Redistributed Manufacturing research](http://futuremakespaces.rca.ac.uk/) and MCQN ltd [IoT Maker scaling research](https://indie.mcqn.com/)
 
 ### How Am I Going To Do It
 
  * It's practice based, building on work developing kits and messy encounters with STEM, IoT, Maker and Network Culture with [FACT](http://fact.co.uk/), [Re-Dock](http://re-dock.org/), [Critical Kits](http://kits.re-dock.org/) and [Domestic Science](http://domesticscience.org.uk)
- * Make kits that embody and support artistic encounters in a range of social spaces and contexts from laboratory to local library, charity shop to indoor market, conference to country show, living room to allotment, makerspace to National trust property.
+ * Make kits that embody and support artistic encounters in a range of social spaces and contexts from laboratory to local library, charity shop to indoor market, conference to country show, living room to allotment, makerspace to National trust property. 
+  * Critically reflect on these encounters, feed into kit development and iterate
+  * Use fine grained kit documentation as part of the writing up process. 
+  * Kits embody the critical reflections, encounters and the written up research, ready for the field. 
  * I will interact with a research group of biomedical researchers working on aspects of communication & chemotaxis/movement in biological systems using the  microbial and insect species already being studied at Lancaster. This informal group *ClubBioMed* co-founded with Dr Rod Dillon embeds maker culture and participative art practices with technology within the Biomedical & Life Sciences at Lancaster University.
 
  * Connect these groups with the wider arts, maker and tech community of the NorthWest
