@@ -47,20 +47,20 @@ This README is a no-nonsense explanation of the core of a practice based PhD by 
 
 ### Cross Talk
 
-The practice based PhD proposals perspective, focus and methodology builds a foundation of cross talk across LICA, the Faculty of Health and Medicine, Division of Biomedical and Life Sciences at Lancaster and local artistic and maker cultures.
+The practice based PhD proposals perspective, focus and methodology builds a foundation of cross talk across departments, faculties, labs and local artistic and maker cultures.
 
 ### Wider Benefits
 
  * Widening participation and literacy in research through:
   * Embedding artistic and makerspace practices in the existing research and teaching of the biomedical life sciences at Lancaster, building on Rod Dillon’s pioneering work considering lab as artist studio.
-  * Introducing ClubBioMed as a framework for widening participation in research and teaching culture at Lancaster
-  * Building research partnerships between LICA and the Life Sciences 
-  * Fostering inter-departmental cross-talk.
+  * Introducing ClubBioMed as a framework for widening participation in research and teaching culture
+  * Building research partnerships across departments, faculties and labs
+  * Fostering inter-departmental and inter-institutional cross-talk.
   * Contributing to undergraduate & post graduate art and science related teaching and resources 
   * Sharing expertise across faculty to articulate exciting opportunities for new students 
   * Further growing innovative cross-discipline groups for future contexts like the  Health Innovation campus
-  * Making new mutually beneficial settings for the Critical Kits project and its partnerships to engage with and articulate research at Lancaster.
-  * Co-designing, developing and deploying Critical kits to in teaching and research practice across departments at Lancaster University and public contexts in the North West. 
+  * Making new mutually beneficial settings for the Critical Kits project and its partnerships to engage with and articulate research.
+  * Co-designing, developing and deploying Critical kits in teaching and research practice across departments and public contexts in the North West. 
   * Critical kits to develop and deploy across public contexts in the North West raising profile and participation of research building new & existing connections through Ross Dalziel’s professional network
   * Maker events; Liverpool MakeFest, Liverpool Light Night, Mini Maker Faire Manchester
   * Liverpool Make Fest and other maker event networks e.g. Maker Assembly
